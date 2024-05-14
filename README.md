@@ -20,7 +20,7 @@ To get this project up and running on your local machine:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/<your-username>/opencv-face-game-control.git
+   git clone https://github.com/<Brandi-Kinard>/opencv-face-game-control.git
    ```
 2. **Install Requirements:**
    ```bash
