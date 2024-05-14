@@ -5,6 +5,8 @@ A Python script that transforms facial movements into game controls using OpenCV
 Welcome to the OpenCV Face Game Controller repository! This project demonstrates an innovative application of computer vision technology by integrating OpenCV's dynamic face detection capabilities with PyAutoGUI to control video games using facial movements. By simply tilting your head, you can send commands to your favorite games, offering a novel, hands-free gaming experience.
 
 ![undefined-high (12)](https://github.com/Brandi-Kinard/opencv-face-game-controller/assets/52756042/9571bfed-c2df-4322-a4e8-a2c9ffbbd0ce)
+![undefined-high (13)](https://github.com/Brandi-Kinard/opencv-face-game-controller/assets/52756042/7024630c-8065-4e80-b48b-a0284f2a0454)
+![undefined-high (14)](https://github.com/Brandi-Kinard/opencv-face-game-controller/assets/52756042/60c2f259-7768-4dac-85f6-416394d56555)
 <br /> Watch full video on [vimeo](https://vimeo.com/946061259?share=copy)
 
 ## Why This Project Is Useful
