@@ -15,6 +15,14 @@ In an era where accessibility in technology is more crucial than ever, the abili
 2. **Motion Interpretation**: Specific movements of the face (like turning or tilting) are captured and interpreted as game controls.
 3. **Game Interaction**: These movements are then translated into keyboard inputs via PyAutoGUI, allowing the user to control game actions directly through facial gestures.
 
+## Prerequisites
+Ensure you have the following installed:
+
+- Python 3.6+
+- OpenCV (opencv-python)
+- PyAutoGUI
+- Numpy
+
 ## Getting Started
 To get this project up and running on your local machine:
 
@@ -27,14 +35,10 @@ To get this project up and running on your local machine:
    pip install opencv-python pyautogui numpy
    ```
 3. **Run the Notebook:**
-   Navigate to the cloned directory and launch the Jupyter Notebook to see the project in action.
+   Navigate to the cloned directory and launch a code editor (e.g. PyCharm CE) to see the project in action.
 
 ## For the Future
 If you want to add more, Please don't hesitate to open a [pull request](https://github.com/Brandi-Kinard/opencv-face-game-controller/pulls).
 
 ## 👋 Get in Touch
 [![text](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brandi-kinard)
-
-
-
-
